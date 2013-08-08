@@ -1,0 +1,45 @@
+                            
+/* TEAM */
+
+                            
+Your title: 35pixel Web Tasarým
+
+                            
+Site: iletisim@35pixel.com
+
+                            
+Twitter: #35pixelajans
+
+                            
+Location: Ýzmir, Turkey.
+
+                         
+                 
+                        [...]
+						
+
+							
+/* THANKS */
+
+							
+Name: Cansýn Çaðan Acarer http://www.cansinacarer.com
+
+						
+                 
+                        [...]
+                        
+
+                            
+/* SITE */
+
+                            
+Last update: 2013/08/12
+
+                            
+Standards: HTML5, CSS3
+
+                            
+Components: jQuery, jQuery UI, Twitter Bootstrap
+
+                            
+Software: Sublime Text 2
